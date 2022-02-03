@@ -1,4 +1,5 @@
-# horodynskyiMaksym
+## Horodynskyi Maksym
+# telegram @maxjs
 # Table of Contents
 
 Telegram Bot | ASP.NET    |Courseworks|Blazor |
