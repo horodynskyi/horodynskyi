@@ -1,5 +1,3 @@
-# Table of Contents
-
   Telegram Bot   |    ASP.NET   |  Courseworks  |   Blazor    |   Android   |
 ---------------- |--------------|---------------|-------------|-------------|
 [FindCarBot](https://github.com/horodynskyi/FindCarBot) |[REST API](https://github.com/horodynskyi/Parking)|[Third year study](https://github.com/horodynskyi/Insurance) |[Insurance Admin Panel](https://github.com/horodynskyi/Insurance/tree/master/src/Front-endTemplate)|[Jetpack Compose](https://github.com/Brigada44/encyclopedia)
